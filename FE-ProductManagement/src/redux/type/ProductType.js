@@ -1,0 +1,15 @@
+export const GET_PRODUCT_LIST_REQUEST = 'productReducer/GET_PRODUCT_LIST_REQUEST';
+export const GET_PRODUCT_LIST_SUCCESS = 'productReducer/GET_PRODUCT_LIST_SUCCESS';
+export const GET_PRODUCT_LIST_FAILED = 'productReducer/GET_PRODUCT_LIST_FAILED';
+export const GET_PRODUCT_DEAIL_REQUEST = 'productReducer/GET_PRODUCT_DEAIL_REQUEST';
+export const GET_PRODUCT_DETAIL_SUCCESS = 'productReducer/GET_PRODUCT_DETAIL_SUCCESS';
+export const GET_PRODUCT_DETAIL_FAILED = 'productReducer/GET_PRODUCT_DETAIL_FAILED';
+export const POST_PRODUCT_REQUEST = 'productReducer/POST_PRODUCT_REQUEST';
+export const POST_PRODUCT_SUCCESS = 'productReducer/POST_PRODUCT_SUCCESS';
+export const POST_PRODUCT_FAILED = 'productReducer/POST_PRODUCT_FAILED';
+export const PUT_PRODUCT_REQUEST = 'productReducer/PUT_PRODUCT_REQUEST';
+export const PUT_PRODUCT_SUCCESS = 'productReducer/PUT_PRODUCT_SUCCESS';
+export const PUT_PRODUCT_FAILED = 'productReducer/PUT_PRODUCT_FAILED';
+export const DELETE_PRODUCT_REQUEST = 'productReducer/DELETE_PRODUCT_REQUEST';
+export const DELETE_PRODUCT_SUCCESS = 'productReducer/DELETE_PRODUCT_SUCCESS';
+export const DELETE_PRODUCT_FAILED = 'productReducer/DELETE_PRODUCT_FAILED';
